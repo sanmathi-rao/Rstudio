@@ -1,1 +1,0 @@
-print("Beku-beda")
